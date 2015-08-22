@@ -1,0 +1,39 @@
+body{ 
+	background-color: #cccccc;
+	padding: 70px; 
+}
+
+*{ 
+border: 1px dotted gray;
+font-family: "Times New Roman", Times, serif;
+
+}
+
+h1{
+	color: #264EFF;
+	font-size: 32px;
+}
+
+p{
+	font-size: 22px;
+	text-align: justify;
+}
+
+.clase1 {
+	background-color: #1642FF;
+	color: white;
+}
+
+#nombre {
+	font-size: 50px;
+}
+
+ul{
+	list-style-type: circle; 
+}
+
+.cover {
+	width: 500px;
+	border-color: #3BFF38;
+	border-width: 10px; 
+}
